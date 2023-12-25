@@ -2,7 +2,7 @@
 #### void assert(int expression)
 ##### 它提供了一個用於測試和調試的宏，並不是一個函數，此宏用於在運行時檢查表達式 expression 是否為真。如果表達式為假，則它會向 stderr (stdio.h)輸出一條錯誤消息，然後調用 abort (stdlib.h)函數終止程序的執行。
 <details>
-<summary>結果</summary>
+<summary>範例</summary>
 
 ```C
 #include <assert.h>
@@ -29,7 +29,7 @@ int main()
 </details>
 
 <details>
-<summary>範例</summary>
+<summary>結果</summary>
 
 ```C
 请输入一个整数值： 11
