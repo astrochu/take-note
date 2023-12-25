@@ -1,5 +1,5 @@
 # ctype.h
-#### int isalnum(int c)
+### int isalnum(int c)
 ##### 判斷字符 c 是否是字母（大寫或小寫）或數字。
 <details>
 <summary>範例</summary>
