@@ -54,6 +54,6 @@ int main()
 </details>
 
 ##### 說明:
-assert通常用於除錯，如果程式條件回傳錯誤，則會終止程式。
+如果c是一個字母或數字，該函數返回非零值，若不是則返回零。
 ##### 出處:
-https://www.runoob.com/cprogramming/c-macro-assert.html
+https://www.runoob.com/cprogramming/c-function-isalnum.html
