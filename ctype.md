@@ -138,7 +138,7 @@ var4 = | | 不是一个字母
 檢查字符var1-4，如果var1-4是一個字母，該函數返回非零值，若不是則返回0。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isalpha.html
-
+***
 #### int isdigit(int c)
 ##### 判斷字符 c 是否是數字。
 <details>
@@ -189,7 +189,7 @@ var2 = |2| 是一个数字
 檢查字符var1、var2，如果var1、var2是一個數字，該函數返回非零值，若不是則返回0。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isdigit.html
-
+***
 #### int iscntrl(int c)
 ##### 判斷字符 c 是否是控制字符。
 <details>
@@ -259,7 +259,7 @@ all Runoob
 檢查字符str1、str2，如果str1、str2是一個控制字符，該函數返回非零值，若不是則返回0。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-iscntrl.html
-
+***
 #### int isgraph(int c)
 ##### 判斷字符 c 是否有圖形表示法。
 <details>
@@ -327,7 +327,7 @@ var3 = | | 是不可打印的
 檢查字符var1-3，如果var1-3有圖形表示法，該函數返回非零值，若沒有則返回0。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isgraph.html
-
+***
 #### int islower(int c)
 ##### 判斷字符 c 是否為小寫字母。
 <details>
@@ -387,7 +387,7 @@ var3 = |3| 不是小写字母
 檢查字符var1-3，如果var1-3是小寫字母，該函數返回非零值，若不是則返回0。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-islower.html
-
+***
 #### int isupper(int c)
 ##### 判斷字符 c 是否為大寫字母。
 <details>
@@ -447,7 +447,7 @@ var3 = |3| 不是大写字母
 檢查字符var1-3，如果var1-3是大寫字母，該函數返回非零值，若不是則返回0。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isupper.html
-
+***
 #### int isprint(int c)
 ##### 判斷字符 c 是否是一個可以打印的字符。
 <details>
@@ -517,7 +517,7 @@ var4 = | | 是可打印的
 檢查字符var1-4，如果var1-4可以打印，該函數返回非零值，若不可以則返回0。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isprint.html
-
+***
 #### int ispunct(int c)
 ##### 判斷字符 c 是否是標點符號。
 <details>
@@ -587,7 +587,7 @@ var4 = | | 不是标点符号字符
 檢查字符var1-4，如果var1-4是標點符號，該函數返回非零值，若不是則返回0。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-ispunct.html
-
+***
 #### int isspace(int c)
 ##### 判斷字符 c 是否是空白字符。
 <details>
@@ -657,7 +657,7 @@ var3 = | | 是空白字符
 檢查字符var1-3，如果var1-3是空白字符，該函數返回非零值，若不是則返回0。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isspace.html
-
+***
 #### int isxdigit(int c)
 ##### 判斷字符 c 是否是十六進制數字。
 <details>
@@ -738,3 +738,4 @@ e 是一个十六进制数
 
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isxdigit.html
+***
