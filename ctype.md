@@ -645,6 +645,7 @@ var3 = | | 是空白字符
 
 <details>
 <summary>標準的空白字符包括</summary>
+   
 ##### ' '     (0x20)    space (SPC) 空格符
 ##### '\t'    (0x09)    horizontal tab (TAB) 水平制表符    
 ##### '\n'    (0x0a)    newline (LF) 换行符
