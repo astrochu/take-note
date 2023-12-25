@@ -28,6 +28,17 @@ int main()
 ```
 </details>
 
+<details>
+<summary>範例</summary>
+
+```C
+请输入一个整数值： 11
+输入的整数是： 11
+请输入字符串： runoob 
+输入的字符串是： runoob 
+```
+</details>
+
 ##### 說明:
 assert通常用於除錯，如果程式條件回傳錯誤，則會終止程式。
 ##### 出處:
