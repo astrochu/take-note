@@ -1,7 +1,7 @@
 # assert.h
-##void assert(int expression)
-它提供了一個用於測試和調試的宏，並不是一個函數。
-##範例:
+## void assert(int expression)
+##### 它提供了一個用於測試和調試的宏，並不是一個函數。
+## 範例:
 ```C
 #include <assert.h>
 #include <stdio.h>
