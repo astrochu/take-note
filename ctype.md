@@ -3,7 +3,8 @@
 ##### 判斷字符 c 是否是字母（大寫或小寫）或數字。
 <details>
 <summary>範例</summary>
-```ruby
+   
+```C
 #include <stdio.h>
 #include <ctype.h>
 
