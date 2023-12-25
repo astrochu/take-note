@@ -65,7 +65,7 @@ var4 = | | 不是一个字母
 </details>
 
 ##### 說明:
-檢查字符var1~4，如果var1~4是一個字母或數字，該函數返回非零值，若不是則返回零。
+檢查字符var1-4，如果var1-4是一個字母或數字，該函數返回非零值，若不是則返回零。
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isalnum.html
 
