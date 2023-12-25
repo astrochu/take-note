@@ -1,9 +1,8 @@
 # ctype.h
 #### int isalnum(int c)
 ##### 判斷字符 c 是否是字母（大寫或小寫）或數字。
-#### 範例:
 <details>
-<summary>
+<summary>範例</summary>
 ```C
 #include <stdio.h>
 #include <ctype.h>
@@ -51,7 +50,6 @@ int main()
    return(0);
 }
 ```
-</summary>
 </details>
 ##### 說明:
 assert通常用於除錯，如果程式條件回傳錯誤，則會終止程式。
