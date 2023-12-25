@@ -69,7 +69,7 @@ var4 = | | 不是一个字母
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isalnum.html
 ***
-#### int isalpha(int c)
+### int isalpha(int c)
 ##### 判斷字符 c 是否是字母。
 <details>
 <summary>範例</summary>
@@ -139,7 +139,7 @@ var4 = | | 不是一个字母
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isalpha.html
 ***
-#### int isdigit(int c)
+### int isdigit(int c)
 ##### 判斷字符 c 是否是數字。
 <details>
 <summary>範例</summary>
@@ -190,7 +190,7 @@ var2 = |2| 是一个数字
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isdigit.html
 ***
-#### int iscntrl(int c)
+### int iscntrl(int c)
 ##### 判斷字符 c 是否是控制字符。
 <details>
 <summary>範例</summary>
@@ -260,7 +260,7 @@ all Runoob
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-iscntrl.html
 ***
-#### int isgraph(int c)
+### int isgraph(int c)
 ##### 判斷字符 c 是否有圖形表示法。
 <details>
 <summary>範例</summary>
@@ -328,7 +328,7 @@ var3 = | | 是不可打印的
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isgraph.html
 ***
-#### int islower(int c)
+### int islower(int c)
 ##### 判斷字符 c 是否為小寫字母。
 <details>
 <summary>範例</summary>
@@ -388,7 +388,7 @@ var3 = |3| 不是小写字母
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-islower.html
 ***
-#### int isupper(int c)
+### int isupper(int c)
 ##### 判斷字符 c 是否為大寫字母。
 <details>
 <summary>範例</summary>
@@ -448,7 +448,7 @@ var3 = |3| 不是大写字母
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isupper.html
 ***
-#### int isprint(int c)
+### int isprint(int c)
 ##### 判斷字符 c 是否是一個可以打印的字符。
 <details>
 <summary>範例</summary>
@@ -518,7 +518,7 @@ var4 = | | 是可打印的
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isprint.html
 ***
-#### int ispunct(int c)
+### int ispunct(int c)
 ##### 判斷字符 c 是否是標點符號。
 <details>
 <summary>範例</summary>
@@ -588,7 +588,7 @@ var4 = | | 不是标点符号字符
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-ispunct.html
 ***
-#### int isspace(int c)
+### int isspace(int c)
 ##### 判斷字符 c 是否是空白字符。
 <details>
 <summary>範例</summary>
@@ -658,7 +658,7 @@ var3 = | | 是空白字符
 ##### 出處:
 https://www.runoob.com/cprogramming/c-function-isspace.html
 ***
-#### int isxdigit(int c)
+### int isxdigit(int c)
 ##### 判斷字符 c 是否是十六進制數字。
 <details>
 <summary>範例1</summary>
