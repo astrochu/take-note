@@ -241,51 +241,21 @@ var2 = |2| 是一个数字
 
 ##### "控制字元" 通常指 ASCII 控制字元，這是 ASCII 字元集中的一組特殊字符，其 ASCII 值在 0 到 31 之間。這些字符通常不是可見字符，而是用於控制輸出設備或執行特定的控制功能。
 ##### 常見的控制字元:
-NUL (Null) - ASCII 0:
-
-通常用於字串終結符號。
-SOH (Start of Header) - ASCII 1:
-
-在通信協議中用於表示報文開始。
-STX (Start of Text) - ASCII 2:
-
-在通信協議中用於指示正文的開始。
-ETX (End of Text) - ASCII 3:
-
-在通信協議中用於指示正文的結束。
-ENQ (Enquiry) - ASCII 5:
-
-用於發出查詢。
-ACK (Acknowledge) - ASCII 6:
-
-表示接收到報文，通常用於通信協議中的確認。
-BEL (Bell) - ASCII 7:
-
-通常用於產生聲音提示或閃爍螢幕。
-BS (Backspace) - ASCII 8:
-
-用於後退一個位置。
-HT (Horizontal Tab) - ASCII 9:
-
-用於水平定位，通常在顯示文本時用於定位到下一個 tab 位置。
-LF (Line Feed) - ASCII 10:
-
-用於在文本中換行。
-VT (Vertical Tab) - ASCII 11:
-
-用於垂直定位。
-FF (Form Feed) - ASCII 12:
-
-用於換頁。
-CR (Carriage Return) - ASCII 13:
-
-用於將光標移到行首。
-SO (Shift Out) - ASCII 14:
-
-在字符集中切換到另一半。
-SI (Shift In) - ASCII 15:
-
-切換回原始字符集。
+NUL (Null) - ASCII 0:通常用於字串終結符號。
+SOH (Start of Header) - ASCII 1:在通信協議中用於表示報文開始。
+STX (Start of Text) - ASCII 2:在通信協議中用於指示正文的開始。
+ETX (End of Text) - ASCII 3:在通信協議中用於指示正文的結束。
+ENQ (Enquiry) - ASCII 5:用於發出查詢。
+ACK (Acknowledge) - ASCII 6:表示接收到報文，通常用於通信協議中的確認。
+BEL (Bell) - ASCII 7:通常用於產生聲音提示或閃爍螢幕。
+BS (Backspace) - ASCII 8:用於後退一個位置。
+HT (Horizontal Tab) - ASCII 9:用於水平定位，通常在顯示文本時用於定位到下一個 tab 位置。
+LF (Line Feed) - ASCII 10:用於在文本中換行。
+VT (Vertical Tab) - ASCII 11:用於垂直定位。
+FF (Form Feed) - ASCII 12:用於換頁。
+CR (Carriage Return) - ASCII 13:用於將光標移到行首。
+SO (Shift Out) - ASCII 14:在字符集中切換到另一半。
+SI (Shift In) - ASCII 15:切換回原始字符集。
 
 </details>
 
