@@ -25,12 +25,12 @@ int main()
 <summary>結果</summary>
 
 ```C
-0.900000 的反余弦是 25.855040 度
+这里是 runoob.com
 ```
 </details>
 
 ##### 說明:
-定義PI，把 x 帶入 ret 運算，val 則是將單位從弧度 (弧度區間為 [0, pi]) 轉換成度數。
+這將建立一個檔案file.txt，然後讀取下面的文字行，最後使用fclose()函數關閉檔案。
 ##### 出處:
-https://www.runoob.com/cprogramming/c-function-acos.html
+https://www.runoob.com/cprogramming/c-function-fclose.html
 ***
